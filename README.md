@@ -2,7 +2,7 @@
 
 **Pollinations API**
 
-The code uses the Pollinations AI API to generate images. You can learn more about the API and its parameters here: https://api.pollinations.ai/docs/. The API takes in a prompt as input and returns an image based on the specified parameters.
+The code uses the Pollinations AI API to generate images. You can learn more about the API and its parameters here: https://pollinations.ai. The API takes in a prompt as input and returns an image based on the specified parameters.
 
 **Gradio**
 
