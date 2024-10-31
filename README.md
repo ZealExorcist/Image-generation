@@ -1,4 +1,4 @@
-This code implements a simple web-based image generator using the Pollinations AI API and the Gradio library. Here's a breakdown of the code:
+# Image generation using Pollinations AI API and Gradio
 
 **Pollinations API**
 
